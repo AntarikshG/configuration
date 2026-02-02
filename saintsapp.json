@@ -38,5 +38,19 @@
     "2026-12-04": "Utpanna Ekadashi",
     "2026-12-20": "Mokshada Ekadashi"
   }
+ "meditation_data": [
+    {
+      "id": "yoga_nidra_001",
+      "name": "Yoga Nidra",
+      "name_hi": "योग निद्रा ",
+      "description": "Start your day with inner peace and clarity",
+      "description_hi": "अपने दिन की शुरुआत आंतरिक शांति और स्पष्टता के साथ करें",
+      "duration_minutes": 25,
+      "category": "evening",
+      "audio_url": "https://github.com/AntarikshG/configuration/blob/main/Yoganidra-25mins.m4a",
+      "instructor": "Sri Antariksh",
+      "difficulty": "beginner"
+    }
+ ]
 }
 
