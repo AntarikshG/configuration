@@ -1,17 +1,18 @@
 {
   "gradio_server_running": true,
   "gradio_server_link": "https://nonobserving-unoceanic-jean.ngrok-free.app",
-   "latest_app_version": "2.4.0",
-    "ekadashi_dates": [
-  "2025-12-16",
-  "2025-12-31",
-  "2026-01-10",
-  "2026-01-25",
-  "2026-02-8",
-  "2026-02-24",
-  "2026-03-10",
-  "2026-03-26" ],
-   "ekadashi_data": {
+  "latest_app_version": "2.4.0",
+  "ekadashi_dates": [
+    "2025-12-16",
+    "2025-12-31",
+    "2026-01-10",
+    "2026-01-25",
+    "2026-02-08",
+    "2026-02-24",
+    "2026-03-10",
+    "2026-03-26"
+  ],
+  "ekadashi_data": {
     "2025-12-30": "Pausha Putrada Ekadashi",
     "2026-01-14": "Shattila Ekadashi",
     "2026-01-29": "Jaya Ekadashi",
@@ -38,19 +39,18 @@
     "2026-12-04": "Utpanna Ekadashi",
     "2026-12-20": "Mokshada Ekadashi"
   },
- "meditation_data": [
+  "meditation_data": [
     {
       "id": "yoga_nidra_001",
       "name": "Yoga Nidra",
-      "name_hi": "योग निद्रा ",
+      "name_hi": "योग निद्रा",
       "description": "Start your day with inner peace and clarity",
       "description_hi": "अपने दिन की शुरुआत आंतरिक शांति और स्पष्टता के साथ करें",
       "duration_minutes": 25,
       "category": "evening",
-      "audio_url": "https://github.com/AntarikshG/configuration/blob/main/Yoganidra-25mins.m4a",
+      "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/Yoganidra-25mins.m4a",
       "instructor": "Sri Antariksh",
       "difficulty": "beginner"
     }
- ]
+  ]
 }
-
