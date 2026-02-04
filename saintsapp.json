@@ -42,7 +42,7 @@
   "meditation_data": [
     
         {
-      "id": "yoga_nidra_002",
+      "id": "yoga_nidra_001",
       "name": "Yoga Nidra",
       "name_hi": "योग निद्रा",
       "description": "Start your day with inner peace and clarity",
@@ -52,10 +52,10 @@
       "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/YogaNidra_Yatidharmananda_70_mins.mp3",
       "instructor": "Swami Yatidharmananda",
       "difficulty": "Advanced"
-    },
+    }
     
     {
-      "id": "yoga_nidra_001",
+      "id": "yoga_nidra_002",
       "name": "Yoga Nidra",
       "name_hi": "योग निद्रा",
       "description": "Start your day with inner peace and clarity",
