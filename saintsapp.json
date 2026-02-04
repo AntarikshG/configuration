@@ -66,5 +66,19 @@
       "instructor": "Sri Antariksh",
       "difficulty": "beginner"
     }
+    ,
+    
+    {
+      "id": "Meditation_ganga_003",
+      "name": "Meditation on flowing Ganga",
+      "name_hi": "गंगा ध्यान",
+      "description": "Start your day with inner peace and clarity",
+      "description_hi": "अपने दिन की शुरुआत आंतरिक शांति और स्पष्टता के साथ करें",
+      "duration_minutes": 11,
+      "category": "Morning",
+      "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/gangaji_11mins.mp3",
+      "instructor": "Mother Ganga",
+      "difficulty": "Medium"
+    }
   ]
 }
