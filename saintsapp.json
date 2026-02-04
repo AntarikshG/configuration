@@ -80,5 +80,48 @@
       "instructor": "Mother Ganga",
       "difficulty": "Medium"
     }
+        ,
+    
+    {
+      "id": "Meditation_silence_004",
+      "name": "Silence Meditation",
+      "name_hi": "शांति ध्यान",
+      "description": "Start your day with inner peace and clarity",
+      "description_hi": "अपने दिन की शुरुआत आंतरिक शांति और स्पष्टता के साथ करें",
+      "duration_minutes": 15,
+      "category": "Morning",
+      "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/silent_meditation_15min.m4a",
+      "instructor": "Sri Antariksh",
+      "difficulty": "Easy"
+    }
+        ,
+    
+    
+    {
+      "id": "Meditation_silence_005",
+      "name": "Silence Meditation",
+      "name_hi": "शांति ध्यान",
+      "description": "Start your day with inner peace and clarity",
+      "description_hi": "अपने दिन की शुरुआत आंतरिक शांति और स्पष्टता के साथ करें",
+      "duration_minutes": 30,
+      "category": "Morning",
+      "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/silent_meditation_30min.m4a",
+      "instructor": "Sri Antariksh",
+      "difficulty": "Medium"
+    }
+            ,
+    
+    {
+      "id": "Meditation_silence_006",
+      "name": "Silence Meditation",
+      "name_hi": "शांति ध्यान",
+      "description": "End your day with inner peace ",
+      "description_hi": "अपने दिन का अंत आंतरिक शांति के साथ करें",
+      "duration_minutes": 60,
+      "category": "Evening",
+      "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/silent_meditation_with_bell.m4a",
+      "instructor": "Sri Antariksh",
+      "difficulty": "Advanced"
+    }
   ]
 }
