@@ -40,6 +40,20 @@
     "2026-12-20": "Mokshada Ekadashi"
   },
   "meditation_data": [
+    
+        {
+      "id": "yoga_nidra_002",
+      "name": "Yoga Nidra",
+      "name_hi": "योग निद्रा",
+      "description": "Start your day with inner peace and clarity",
+      "description_hi": "अपने दिन की शुरुआत आंतरिक शांति और स्पष्टता के साथ करें",
+      "duration_minutes": 70,
+      "category": "evening",
+      "audio_url": "https://raw.githubusercontent.com/AntarikshG/configuration/main/YogaNidra_Yatidharmananda_70_mins.mp3",
+      "instructor": "Swami Yatidharmananda",
+      "difficulty": "Advanced"
+    },
+    
     {
       "id": "yoga_nidra_001",
       "name": "Yoga Nidra",
