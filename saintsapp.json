@@ -123,5 +123,66 @@
       "instructor": "Sri Antariksh",
       "difficulty": "Advanced"
     }
+  ],
+  
+  "books_data": [
+    {
+      "id": "bhagavad-gita",
+      "title": "Bhagavad Gita",
+      "author": "Swami Sivananda",
+      "url": "https://www.dlshq.org/download2/bgita.epub",
+      "category": "scripture",
+      "description": "The timeless dialogue between Lord Krishna and Arjuna"
+    },
+    {
+      "id": "brahmacharya",
+      "title": "Brahmacharya",
+      "author": "Swami Sivananda",
+      "url": "https://www.dlshq.org/download2/brahmacharya.pdf",
+      "category": "yogic-practice",
+      "description": "Essential guide to spiritual discipline and self-control"
+    },
+    {
+      "id": "thought-power",
+      "title": "Thought Power",
+      "author": "Swami Sivananda",
+      "url": "https://www.dlshq.org/download2/thought_power.epub",
+      "category": "mind-control",
+      "description": "Harness the power of your thoughts for spiritual growth"
+    },
+    {
+      "id": "vedanta-beginners",
+      "title": "Vedanta for Beginners",
+      "author": "Swami Sivananda",
+      "url": "https://www.dlshq.org/download2/vedbegin.pdf",
+      "category": "philosophy",
+      "description": "An introduction to the profound philosophy of Vedanta"
+    },
+    {
+      "id": "autobiography-yogi",
+      "title": "Autobiography of a Yogi",
+      "author": "Paramahansa Yogananda",
+      "url": "https://www.gutenberg.org/ebooks/7452.epub.images",
+      "category": "biography",
+      "description": "The spiritual journey of Paramahansa Yogananda"
+    },
+    {
+      "id": "hindu-sanskrit-tales",
+      "title": "Hindu Sanskrit Tales",
+      "author": "Traditional",
+      "url": "https://www.gutenberg.org/ebooks/11310.epub3.images",
+      "category": "scripture",
+      "description": "Ancient wisdom through traditional stories"
+    },
+    {
+      "id": "jnana-yoga-lectures",
+      "title": "Lectures on Jnana Yoga",
+      "author": "Swami Vivekananda",
+      "url": "https://www.gutenberg.org/ebooks/72368.epub3.images",
+      "category": "philosophy",
+      "description": "The path of knowledge explained by Swami Vivekananda"
+    }
   ]
+
+
 }
