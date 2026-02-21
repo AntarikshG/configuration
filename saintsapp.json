@@ -2,21 +2,7 @@
   "gradio_server_running": true,
   "gradio_server_link": "https://nonobserving-unoceanic-jean.ngrok-free.app",
   "latest_app_version": "2.4.0",
-  "ekadashi_dates": [
-    "2025-12-16",
-    "2025-12-31",
-    "2026-01-10",
-    "2026-01-25",
-    "2026-02-08",
-    "2026-02-24",
-    "2026-03-10",
-    "2026-03-26"
-  ],
   "ekadashi_data": {
-    "2025-12-30": "Pausha Putrada Ekadashi",
-    "2026-01-14": "Shattila Ekadashi",
-    "2026-01-29": "Jaya Ekadashi",
-    "2026-02-13": "Vijaya Ekadashi",
     "2026-02-27": "Amalaki Ekadashi",
     "2026-03-15": "Papamochani Ekadashi",
     "2026-03-29": "Kamada Ekadashi",
